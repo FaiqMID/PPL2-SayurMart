@@ -1,9 +1,9 @@
-# Proyek Perangkat Lunak II - Boilerplate
+# SayurMart
 
 ## Deskripsi Aplikasi
 
 ## Anggota Kelompok
-- Anggota 1 - 140xxx
-- Anngota 2 - 140xxx
-- ...
-- ...
+- Faiq Muhammad - 140810200011
+- Muhammad Zidan Khairan - 140810200019
+- Harta Rama - 140810200027
+- Azka Ghafara Putra Agung - 140810200037
