@@ -1,4 +1,4 @@
-# SayurMart
+# SayurMart - Tim BusaDev
 
 ## Deskripsi Aplikasi
 SayurMart adalah sebuah aplikasi e-commerce dimana pengguna dapat membeli berbagai produk sayur dan buah dari berbagai toko fisik milik SayurMart.
