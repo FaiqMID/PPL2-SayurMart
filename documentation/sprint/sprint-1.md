@@ -1,15 +1,16 @@
-# Sprint n
+# Sprint 1
 
 
-|Date|4 September 2023|
+|Date|18 September 2023|
 | :- | :- |
-|Created by|Rahmatullah Arrizal|
-|Participant|Rahmatullah Arrizal, Fulan1, Fulan2, Fulanah|
+|Created by|Muhammad Zidan Khairan|
+|Participant|Faiq Muhammad, Muhammad Zidan Khairan, Harta Rama, Azka Ghafara Putra Agung|
 ## Sprint Planning
 ### Goals:
-- Sprint goal 1
-- Sprint goal 2
-- …
+- Membuat Trello
+- Inisialisasi Github
+- Membuat Github
+- Membuat User Story
 ### Breakdown Task:
 #### Commitment: x SP
 - Fulan1: x SP
@@ -25,8 +26,8 @@
 ### During Sprint
 2023-09-04:
 
-1. Feedback
-1. Blocker
+1. 
+1. 
 ### Notes Sprint Review
 
 
