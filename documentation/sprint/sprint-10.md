@@ -1,4 +1,4 @@
-# Sprint 1
+# Sprint 10
 
 |Date|17 November 2023 - 23 November 2023|
 | :- | :- |
@@ -6,12 +6,10 @@
 |Participant|Faiq Muhammad, Muhammad Zidan Khairan, Harta Rama, Azka Ghafara Putra Agung|
 ## Sprint Planning
 ### Goals:
-- [x] Menyiapkan Trello
-- [x] Membuat repositori GitHub untuk kolaborasi pengkodean
-- [x] Membuat user story
+- [x] Back-end detail produk
+- [x] Front-end detail produk
+- [x] Implementasi pembayaran dengan midtrans
+- [x] Front-end pembayaran
 
 ### Notes Sprint Review
-- Trello Board berhasil dibuat dan digunakan oleh setiap anggota tim
-- Repository berhasil dibuat untuk kolaborasi kode
-- User story berjumlah 12 telah berhasil dibuat dan dikerjakan
 

@@ -1,4 +1,4 @@
-# Sprint 1
+# Sprint 2
 
 |Date|22 September 2023 - 28 September 2023|
 | :- | :- |
@@ -12,6 +12,7 @@
 
 ### Notes Sprint Review
 - Berhasil membuat skema database
+![alt_text](asset/database_schema.png)
 - Mockup register, login, dan logout berhasil dibuat
 - Berhasil membuat logo website SayurMart
 ![alt_text](asset/logo.png)

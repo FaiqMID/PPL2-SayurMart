@@ -14,4 +14,5 @@
 - Trello Board berhasil dibuat dan digunakan oleh setiap anggota tim
 - Repository berhasil dibuat untuk kolaborasi kode
 - User story berjumlah 12 telah berhasil dibuat dan dikerjakan
+![alt_text](asset/user_story.png)
 
