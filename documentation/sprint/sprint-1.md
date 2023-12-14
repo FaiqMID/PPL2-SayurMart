@@ -1,33 +1,17 @@
 # Sprint 1
 
-
-|Date|18 September 2023|
+|Date|15 September 2023 - 21 September 2023|
 | :- | :- |
 |Created by|Muhammad Zidan Khairan|
 |Participant|Faiq Muhammad, Muhammad Zidan Khairan, Harta Rama, Azka Ghafara Putra Agung|
 ## Sprint Planning
 ### Goals:
-- Membuat Trello
-- Inisialisasi Github
-- Membuat Github
-- Membuat User Story
-### Breakdown Task:
-#### Commitment: x SP
-- Fulan1: x SP
-  - [ ] TASK-1 x SP
-  - [ ] TASK-2 x SP
-- Fulan2: x SP
-  - [ ] TASK-3 x SP
-  - [ ] TASK-4 x SP
-- Fulanah: x SP
-  - [ ] TASK-5 x SP
+- [x] Menyiapkan Trello
+- [x] Membuat repositori GitHub untuk kolaborasi pengkodean
+- [x] Membuat user story
 
-#### Delivered:	 x SP
-### During Sprint
-2023-09-04:
-
-1. 
-1. 
 ### Notes Sprint Review
-
+- Trello Board berhasil dibuat dan digunakan oleh setiap anggota tim
+- Repository berhasil dibuat untuk kolaborasi kode
+- User story berjumlah 12 telah berhasil dibuat dan dikerjakan
 
