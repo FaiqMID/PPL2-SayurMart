@@ -6,7 +6,7 @@
 |Participant|Faiq Muhammad, Muhammad Zidan Khairan, Harta Rama, Azka Ghafara Putra Agung|
 ## Sprint Planning
 ### Goals:
-- [x] Menyiapkan Trello
+[x] Menyiapkan Trello
 - [x] Membuat repositori GitHub untuk kolaborasi pengkodean
 - [x] Membuat user story
 
